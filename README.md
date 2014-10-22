@@ -15,4 +15,5 @@ it will construct a second data frame holding the averages of all measurements f
 of subject code and activity label. The resluting data frames are:
 
 data - holding all samples of the combined training and test data with reduced feature set
+
 averageData - holding the averages for each measurement for all subjects and activities
